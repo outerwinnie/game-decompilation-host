@@ -317,5 +317,55 @@
     },
     "last_updated": "2026-01-11T00:00:00Z",
     "icon_url": "https://raw.githubusercontent.com/HarbourMasters/SpaghettiKart/refs/heads/main/spaghettikart.ico"
+  },
+  {
+    "id": "trxtr1",
+    "name": "Tomb Raider 1 (TRX)",
+    "description": "TRX is an open-source reimplementation of Tomb Raider 1.",
+    "repository": "LostArtefacts/TRX",
+    "platforms": [
+      "windows",
+      "linux"
+    ],
+    "game_platforms": [
+      "pc"
+    ],
+    "executable": {
+      "windows": "TRX.exe",
+      "linux": "TRX"
+    },
+    "version": "1.0.3",
+    "release_tag": "trx-1.0.3",
+    "download_urls": {
+      "linux": "https://github.com/LostArtefacts/TRX/releases/download/trx-1.0.3/TRX-1.0.3-Linux-tr1.zip",
+      "windows": "https://github.com/LostArtefacts/TRX/releases/download/trx-1.0.3/TRX-1.0.3-Windows-tr1.zip"
+    },
+    "last_updated": "2026-01-11T00:00:00Z",
+    "icon_url": "https://raw.githubusercontent.com/LostArtefacts/TRX/refs/heads/develop/tools/installer/TR1X_Installer/Resources/icon.ico"
+  },
+  {
+    "id": "trxtr2",
+    "name": "Tomb Raider 2 (TRX)",
+    "description": "TRX is an open-source reimplementation of Tomb Raider 2.",
+    "repository": "LostArtefacts/TRX",
+    "platforms": [
+      "windows",
+      "linux"
+    ],
+    "game_platforms": [
+      "pc"
+    ],
+    "executable": {
+      "windows": "TRX.exe",
+      "linux": "TRX"
+    },
+    "version": "1.0.3",
+    "release_tag": "trx-1.0.3",
+    "download_urls": {
+      "linux": "https://github.com/LostArtefacts/TRX/releases/download/trx-1.0.3/TRX-1.0.3-Linux-tr2.zip",
+      "windows": "https://github.com/LostArtefacts/TRX/releases/download/trx-1.0.3/TRX-1.0.3-Windows-tr2.zip"
+    },
+    "last_updated": "2026-01-11T00:00:00Z",
+    "icon_url": "https://raw.githubusercontent.com/LostArtefacts/TRX/refs/heads/develop/tools/installer/TR2X_Installer/Resources/icon.ico"
   }
 ]
