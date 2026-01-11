@@ -1,0 +1,321 @@
+[
+  {
+    "id": "zelda64recomp",
+    "name": "The Legend of Zelda: Majora's Mask (Recompiled)",
+    "description": "Zelda 64: Recompiled is a project that uses N64: Recompiled to statically recompile Majora's Mask (and soon Ocarina of Time) into a native port with many new features, enhancements, and extensive mod support. This project uses RT64 as the rendering engine to provide graphical enhancements.",
+    "repository": "Zelda64Recomp/Zelda64Recomp",
+    "platforms": [
+      "windows",
+      "linux"
+    ],
+    "game_platforms": [
+      "n64"
+    ],
+    "executable": {
+      "windows": "Zelda64Recompiled.exe",
+      "linux": "Zelda64Recompiled"
+    },
+    "version": "v1.2.2",
+    "release_tag": "v1.2.2",
+    "download_urls": {
+      "windows": "https://github.com/Zelda64Recomp/Zelda64Recomp/releases/download/v1.2.2/Zelda64Recompiled-v1.2.2-Windows.zip",
+      "linux": "https://github.com/Zelda64Recomp/Zelda64Recomp/releases/download/v1.2.2/Zelda64Recompiled-v1.2.2-Linux-X64.zip"
+    },
+    "last_updated": "2026-01-11T00:00:00Z",
+    "icon_url": "https://raw.githubusercontent.com/Zelda64Recomp/Zelda64Recomp/refs/heads/dev/icons/512.ico"
+  },
+  {
+    "id": "unleashedrecomp",
+    "name": "Sonic Unleashed (Recompiled)",
+    "description": "Unleashed Recompiled is an unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation. The port offers Windows and Linux support with numerous built-in enhancements such as high resolutions, ultrawide support, high frame rates, improved performance and modding.",
+    "repository": "hedge-dev/UnleashedRecomp",
+    "platforms": [
+      "windows"
+    ],
+    "game_platforms": [
+      "xbox360"
+    ],
+    "executable": {
+      "windows": "UnleashedRecomp.exe"
+    },
+    "version": "v1.0.3",
+    "release_tag": "v1.0.3",
+    "download_urls": {
+      "windows": "https://github.com/hedge-dev/UnleashedRecomp/releases/download/v1.0.3/UnleashedRecomp-Windows.zip"
+    },
+    "last_updated": "2026-01-11T00:00:00",
+    "icon_url": "https://raw.githubusercontent.com/hedge-dev/UnleashedRecompResources/refs/heads/main/images/logo/Logo.png"
+  },
+  {
+    "id": "mariokart64recomp",
+    "name": "Mario Kart 64 (Recompiled)",
+    "description": "MarioKart 64: Recompiled is a project that uses N64: Recompiled to statically recompile MarioKart 64 into a native port with many new features and enhancements. This project uses RT64 as the rendering engine to provide some of these enhancements.",
+    "repository": "sonicdcer/MarioKart64Recomp",
+    "platforms": [
+      "windows",
+      "linux",
+      "macos"
+    ],
+    "game_platforms": [
+      "n64"
+    ],
+    "executable": {
+      "windows": "MarioKart64Recompiled.exe",
+      "linux": "MarioKart64Recompiled",
+      "macos": "MarioKart64Recompiled.app"
+    },
+    "version": "v0.9.1",
+    "release_tag": "v0.9.1",
+    "download_urls": {
+      "linux": "https://github.com/sonicdcer/MarioKart64Recomp/releases/download/v0.9.1/MarioKart64Recompiled-v0.9.1-Linux-X64-Release.zip",
+      "macos": "https://github.com/sonicdcer/MarioKart64Recomp/releases/download/v0.9.1/MarioKart64Recompiled-v0.9.1-macOS-Release.zip",
+      "windows": "https://github.com/sonicdcer/MarioKart64Recomp/releases/download/v0.9.1/MarioKart64Recompiled-v0.9.1-Windows-RelWithDebInfo.zip"
+    },
+    "last_updated": "2026-01-11T00:00:00Z",
+    "icon_url": "https://raw.githubusercontent.com/sonicdcer/MarioKart64Recomp/refs/heads/main/icons/512.ico"
+  },
+  {
+    "id": "dinosaurplanetrecomp",
+    "name": "Dinosaur Planet (Recompiled)",
+    "description": "Dinosaur Planet: Recompiled is a project that uses N64: Recompiled to statically recompile Dinosaur Planet into a native port with enhancements and extensive mod support. This project uses RT64 as the rendering engine to provide graphical enhancements.",
+    "repository": "DinosaurPlanetRecomp/dino-recomp",
+    "platforms": [
+      "windows",
+      "linux"
+    ],
+    "game_platforms": [
+      "n64"
+    ],
+    "executable": {
+      "windows": "DinosaurPlanetRecompiled.exe",
+      "linux": "DinosaurPlanetRecompiled.AppImage"
+    },
+    "version": "v0.2.0",
+    "release_tag": "v0.2.0",
+    "download_urls": {
+      "linux": "https://github.com/DinosaurPlanetRecomp/dino-recomp/releases/download/v0.2.0/DinosaurPlanetRecompiled-v0.2.0-AppImage-x64.AppImage",
+      "windows": "https://github.com/DinosaurPlanetRecomp/dino-recomp/releases/download/v0.2.0/DinosaurPlanetRecompiled-v0.2.0-Windows-x64.zip"
+    },
+    "last_updated": "2026-01-11T00:00:00Z",
+    "icon_url": "https://raw.githubusercontent.com/DinosaurPlanetRecomp/dino-recomp/refs/heads/main/icons/64.png"
+  },
+  {
+    "id": "starfox64recomp",
+    "name": "StarFox 64 (Recompiled)",
+    "description": "Starfox 64: Recompiled is a project that uses N64: Recompiled to statically recompile Starfox 64 into a native port with many new features, enhancements, and extensive mod support. This project uses RT64 as the rendering engine to provide some of these enhancements.",
+    "repository": "sonicdcer/Starfox64Recomp",
+    "platforms": [
+      "windows",
+      "linux",
+      "macos"
+    ],
+    "game_platforms": [
+      "n64"
+    ],
+    "executable": {
+      "windows": "Starfox64Recompiled.exe",
+      "linux": "Starfox64Recompiled",
+      "macos": "Starfox64Recompiled.app"
+    },
+    "version": "v1.0.3",
+    "release_tag": "v1.0.3",
+    "download_urls": {
+      "linux": "https://github.com/sonicdcer/Starfox64Recomp/releases/download/1.0.3/Starfox64Recompiled-v1.0.3-Linux-X64-Release.zip",
+      "macos": "https://github.com/sonicdcer/Starfox64Recomp/releases/download/1.0.3/Starfox64Recompiled-v1.0.3-macOS-Release.zip",
+      "windows": "https://github.com/sonicdcer/Starfox64Recomp/releases/download/1.0.3/Starfox64Recompiled-v1.0.3-Windows-RelWithDebInfo.zip"
+    },
+    "last_updated": "2026-01-11T00:00:00Z",
+    "icon_url": "https://raw.githubusercontent.com/sonicdcer/Starfox64Recomp/refs/heads/main/icons/512.png"
+  },
+  {
+    "id": "goemon64recomp",
+    "name": "Mystical Ninja Starring Goemon (Recompiled)",
+    "description": "Goemon 64: Recompiled is a project that uses N64: Recompiled to statically recompile \"Mystical Ninja Starring Goemon\" (and soon \"Goemon's Great Adventure\") into a native port with many new features and enhancements. This project uses RT64 as the rendering engine to provide graphical enhancements.",
+    "repository": "klorfmorf/Goemon64Recomp",
+    "platforms": [
+      "windows",
+      "linux",
+      "macos"
+    ],
+    "game_platforms": [
+      "n64"
+    ],
+    "executable": {
+      "windows": "Goemon64Recompiled.exe",
+      "linux": "Goemon64Recompiled",
+      "macos": "Goemon64Recompiled.app"
+    },
+    "version": "v0.1.0-dev",
+    "release_tag": "v0.1.0-dev",
+    "download_urls": {
+      "windows": "https://github.com/klorfmorf/Goemon64Recomp/releases/download/v0.1.0-dev/Goemon64Recompiled-Windows.zip",
+      "macos": "https://github.com/klorfmorf/Goemon64Recomp/releases/download/v0.1.0-dev/Goemon64Recompiled-macOS.zip",
+      "linux": "https://github.com/klorfmorf/Goemon64Recomp/releases/download/v0.1.0-dev/Goemon64Recompiled-Linux-X64.zip"
+    },
+    "last_updated": "2026-01-11T00:00:00Z",
+    "icon_url": "https://raw.githubusercontent.com/klorfmorf/Goemon64Recomp/refs/heads/dev/icons/512.ico"
+  },
+  {
+    "id": "drmario64recompplus",
+    "name": "Dr. Mario 64 (Recompiled)",
+    "description": "Dr. Mario 64 Recomp is a modernized recompilation build focused on improved rendering, smoother motion, and quality-of-life enhancements while remaining faithful to the original game.",
+    "repository": "theboy181/drmario64_recomp_plus",
+    "platforms": [
+      "windows"
+    ],
+    "game_platforms": [
+      "n64"
+    ],
+    "executable": {
+      "windows": "Dr.Mario.64.Recompiled.exe"
+    },
+    "version": "v1.0.0",
+    "release_tag": "1.0.0",
+    "download_urls": {
+      "windows": "https://github.com/theboy181/drmario64_recomp_plus/releases/download/1.0.0/Dr.Mario.64.Recompiled-v1.0.0-Windows.zip"
+    },
+    "last_updated": "2026-01-11T00:00:00Z",
+    "icon_url": "https://raw.githubusercontent.com/theboy181/drmario64_recomp_plus/refs/heads/main/icons/512.ico"
+  },
+  {
+    "id": "perfectdark",
+    "name": "Perfect Dark (Decompiled)",
+    "description": "The game is in a mostly functional state, with both singleplayer and split-screen multiplayer modes fully working. There are minor graphics- and gameplay-related issues, and possibly occasional crashes.",
+    "repository": "fgsfdsfgs/perfect_dark",
+    "platforms": [
+      "windows",
+      "linux",
+      "macos"
+    ],
+    "game_platforms": [
+      "n64"
+    ],
+    "executable": {
+      "windows": "pd.exe",
+      "linux": "pd",
+      "macos": "pd"
+    },
+    "version": "ci-dev-build",
+    "release_tag": "ci-dev-build",
+    "update_ref": "ci-dev-build",
+    "download_urls": {
+      "linux": "https://github.com/fgsfdsfgs/perfect_dark/releases/download/ci-dev-build/pd-x86_64-linux.tar.gz",
+      "macos": "https://github.com/fgsfdsfgs/perfect_dark/releases/download/ci-dev-build/pd-x86_64-osx.tar.xz",
+      "windows": "https://github.com/fgsfdsfgs/perfect_dark/releases/download/ci-dev-build/pd-x86_64-windows.zip"
+    },
+    "last_updated": "2026-01-11T00:00:00Z",
+    "icon_url": "https://raw.githubusercontent.com/fgsfdsfgs/perfect_dark/refs/heads/port/dist/windows/icon.ico"
+  },
+  {
+    "id": "sm64coopdx",
+    "name": "Super Mario 64 Coop Deluxe (Decompiled)",
+    "description": "sm64coopdx is an online multiplayer project for the Super Mario 64 PC port that synchronizes all entities and every level for multiple players. The project was started by the Coop Deluxe Team. The purpose is to actively maintain and improve, but also continue sm64ex-coop, created by djoslin0. More features, customization, and power to the Lua API allow modders and players to enjoy Super Mario 64 more than ever!",
+    "repository": "coop-deluxe/sm64coopdx",
+    "platforms": [
+      "windows",
+      "linux",
+      "macos"
+    ],
+    "game_platforms": [
+      "n64"
+    ],
+    "executable": {
+      "windows": "sm64coopdx.exe",
+      "linux": "sm64coopdx",
+      "macos": "sm64coopdx.app"
+    },
+    "version": "v1.4.1",
+    "release_tag": "v1.4.1",
+    "download_urls": {
+      "windows": "https://github.com/coop-deluxe/sm64coopdx/releases/download/v1.4.1/sm64coopdx_Windows_DirectX.zip",
+      "linux": "https://github.com/coop-deluxe/sm64coopdx/releases/download/v1.4.1/sm64coopdx_Linux.zip",
+      "macos": "https://github.com/coop-deluxe/sm64coopdx/releases/download/v1.4.1/sm64coopdx_macOS_ARM.zip"
+    },
+    "last_updated": "2026-01-11T00:00:00Z",
+    "icon_url": "https://raw.githubusercontent.com/coop-deluxe/sm64coopdx/refs/heads/main/res/icon.ico"
+  },
+  {
+    "id": "shipwright",
+    "name": "The Legend of Zelda: Ocarina of Time (Decompiled)",
+    "description": "Ship of Harkinian (Shipwright).",
+    "repository": "HarbourMasters/Shipwright",
+    "platforms": [
+      "windows",
+      "linux",
+      "macos"
+    ],
+    "game_platforms": [
+      "n64"
+    ],
+    "executable": {
+      "windows": "soh.exe",
+      "linux": "soh",
+      "macos": "soh.app"
+    },
+    "version": "9.1.1",
+    "release_tag": "9.1.1",
+    "download_urls": {
+      "linux": "https://github.com/HarbourMasters/Shipwright/releases/download/9.1.1/SoH-Copper-Bravo-Linux.zip",
+      "macos": "https://github.com/HarbourMasters/Shipwright/releases/download/9.1.1/SoH-Copper-Bravo-Mac.zip",
+      "windows": "https://github.com/HarbourMasters/Shipwright/releases/download/9.1.1/SoH-Copper-Bravo-Win64.zip"
+    },
+    "last_updated": "2026-01-11T00:00:00Z",
+    "icon_url": "https://raw.githubusercontent.com/HarbourMasters/Shipwright/refs/heads/develop/soh/icon.jpg"
+  },
+  {
+    "id": "2ship2harkinian",
+    "name": "The Legend of Zelda: The Wind Waker (Decompiled)",
+    "description": "2Ship2Harkinian.",
+    "repository": "HarbourMasters/2ship2harkinian",
+    "platforms": [
+      "windows",
+      "linux",
+      "macos"
+    ],
+    "game_platforms": [
+      "n64"
+    ],
+    "executable": {
+      "windows": "2ship.exe",
+      "linux": "2ship",
+      "macos": "2ship.app"
+    },
+    "version": "3.0.2",
+    "release_tag": "3.0.2",
+    "download_urls": {
+      "linux": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/3.0.2/2Ship-Mion-Charlie-Linux.zip",
+      "macos": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/3.0.2/2Ship-Mion-Charlie-Mac.zip",
+      "windows": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/3.0.2/2Ship-Mion-Charlie-Win64.zip"
+    },
+    "last_updated": "2026-01-11T00:00:00Z",
+    "icon_url": "https://raw.githubusercontent.com/HarbourMasters/2ship2harkinian/refs/heads/develop/mm/linux/2s2hIcon.png"
+  },
+  {
+    "id": "spaghettikart",
+    "name": "Mario Kart 64 (Decompiled)",
+    "description": "SpaghettiKart (Spaghettify).",
+    "repository": "HarbourMasters/SpaghettiKart",
+    "platforms": [
+      "windows",
+      "linux",
+      "switch"
+    ],
+    "game_platforms": [
+      "n64"
+    ],
+    "executable": {
+      "windows": "Spaghettify.exe",
+      "linux": "Spaghettify",
+      "switch": "Spaghettify.nro"
+    },
+    "version": "0.9.9.1",
+    "release_tag": "0.9.9.1",
+    "download_urls": {
+      "linux": "https://github.com/HarbourMasters/SpaghettiKart/releases/download/0.9.9.1/Spaghettify-Alfredo-Alfa-1-Linux-Old.zip",
+      "switch": "https://github.com/HarbourMasters/SpaghettiKart/releases/download/0.9.9.1/Spaghettify-Alfredo-Alfa-1-Switch.zip",
+      "windows": "https://github.com/HarbourMasters/SpaghettiKart/releases/download/0.9.9.1/Spaghettify-Alfredo-Alfa-1-Windows.zip"
+    },
+    "last_updated": "2026-01-11T00:00:00Z",
+    "icon_url": "https://raw.githubusercontent.com/HarbourMasters/SpaghettiKart/refs/heads/main/spaghettikart.ico"
+  }
+]
