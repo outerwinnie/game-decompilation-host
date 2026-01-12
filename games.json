@@ -367,5 +367,27 @@
     },
     "last_updated": "2026-01-11T00:00:00Z",
     "icon_url": "https://raw.githubusercontent.com/LostArtefacts/TRX/refs/heads/develop/tools/installer/TR2X_Installer/Resources/icon.ico"
+  },
+  {
+    "id": "quest64recomp",
+    "name": "Quest 64 (Recompiled)",
+    "description": "Quest64: Recompiled is a project that uses N64: Recompiled to statically recompile Quest64 into a native port with enhancements.",
+    "repository": "Rainchus/Quest64-Recomp",
+    "platforms": [
+      "windows"
+    ],
+    "game_platforms": [
+      "n64"
+    ],
+    "executable": {
+      "windows": "Quest64Recompiled.exe"
+    },
+    "version": "v0.1",
+    "release_tag": "v0.1",
+    "download_urls": {
+      "windows": "https://github.com/Rainchus/Quest64-Recomp/releases/download/v0.1/Quest64Recompiledv0.1.zip"
+    },
+    "last_updated": "2026-01-11T00:00:00Z",
+    "icon_url": ""
   }
 ]
