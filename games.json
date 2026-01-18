@@ -389,5 +389,30 @@
     },
     "last_updated": "2026-01-11T00:00:00Z",
     "icon_url": ""
+  },
+  {
+    "id": "ghostship",
+    "name": "Super Mario 64 (Decompiled)",
+    "description": "Ghostship.",
+    "repository": "HarbourMasters/Ghostship",
+    "platforms": [
+      "windows",
+      "macos"
+    ],
+    "game_platforms": [
+      "n64"
+    ],
+    "executable": {
+      "windows": "Ghostship.exe",
+      "macos": "Ghostship.app"
+    },
+    "version": "1.0.0",
+    "release_tag": "1.0.0",
+    "download_urls": {
+      "macos": "https://github.com/HarbourMasters/Ghostship/releases/download/1.0.0/Ghostship-Dutchman-Alfa-Mac.zip",
+      "windows": "https://github.com/HarbourMasters/Ghostship/releases/download/1.0.0/Ghostship-Dutchman-Alfa-Win64.zip"
+    },
+    "last_updated": "2026-01-11T00:00:00Z",
+    "icon_url": "https://raw.githubusercontent.com/HarbourMasters/Ghostship/refs/heads/develop/ghostship.ico"
   }
 ]
