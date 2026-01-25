@@ -414,5 +414,33 @@
     },
     "last_updated": "2026-01-11T00:00:00Z",
     "icon_url": "https://raw.githubusercontent.com/HarbourMasters/Ghostship/refs/heads/develop/ghostship.ico"
+  },
+  {
+    "id": "banjorecomp",
+    "name": "Banjo-Kazooie (Recompiled)",
+    "description": "Banjo: Recompiled is a PC port of Banjo-Kazooie made using N64: Recompiled.",
+    "repository": "BanjoRecomp/BanjoRecomp",
+    "platforms": [
+      "windows",
+      "linux",
+      "macos"
+    ],
+    "game_platforms": [
+      "n64"
+    ],
+    "executable": {
+      "windows": "BanjoRecompiled.exe",
+      "linux": "BanjoRecompiled",
+      "macos": "BanjoRecompiled.app"
+    },
+    "version": "v1.0.0",
+    "release_tag": "v1.0.0",
+    "download_urls": {
+      "linux": "https://github.com/BanjoRecomp/BanjoRecomp/releases/download/v1.0.0/BanjoRecompiled-v1.0.0-Linux-X64.zip",
+      "macos": "https://github.com/BanjoRecomp/BanjoRecomp/releases/download/v1.0.0/BanjoRecompiled-v1.0.0-macOS.zip",
+      "windows": "https://github.com/BanjoRecomp/BanjoRecomp/releases/download/v1.0.0/BanjoRecompiled-v1.0.0-Windows.zip"
+    },
+    "last_updated": "2026-01-25T00:00:00Z",
+    "icon_url": "https://raw.githubusercontent.com/BanjoRecomp/BanjoRecomp/refs/heads/main/icons/appb.ico"
   }
 ]
